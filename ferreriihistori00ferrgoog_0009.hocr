@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ferreriihistori00ferrgoog_0009.png"; bbox 0 0 4500 6100; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 795 2300 1097 2373">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 795 2300 1097 2373">
+     <span class='ocr_line' id='line_1_1' title="bbox 795 2300 1097 2373; baseline -0.046 5"><span class='ocrx_word' id='word_1_1' title='bbox 795 2300 1097 2373; x_wconf 83' lang='lat' dir='ltr'><strong>PRESENTED</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 922 2621 974 2678">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 922 2621 974 2678">
+     <span class='ocr_line' id='line_1_2' title="bbox 922 2621 974 2678; baseline -0.058 1"><span class='ocrx_word' id='word_1_2' title='bbox 922 2621 974 2678; x_wconf 84' lang='grc' dir='ltr'><strong>ΤΟ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 393 2902 1514 3043">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 393 2826 1735 3043">
+     <span class='ocr_line' id='line_1_3' title="bbox 393 2902 1514 3043; baseline -0.118 0"><span class='ocrx_word' id='word_1_3' title='bbox 393 2923 575 3043; x_wconf 88' lang='grc' dir='ltr'><strong>ΤΗΕ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 640 2921 1194 3038; x_wconf 79' lang='grc' dir='ltr'>ΒΑΝΝΑΤΥΝΕ</span> <span class='ocrx_word' id='word_1_5' title='bbox 1264 2902 1514 3040; x_wconf 74' lang='lat' dir='ltr'>CLUB</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 917 3240 1159 3337">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 917 3240 1159 3337">
+     <span class='ocr_line' id='line_1_4' title="bbox 917 3240 1159 3337; baseline -0.14 2"><span class='ocrx_word' id='word_1_6' title='bbox 917 3279 971 3337; x_wconf 87' lang='lat' dir='ltr'><strong>BY</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1155 3240 1159 3245; x_wconf 63' lang='grc'>’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 520 3573 1376 3662">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 520 3573 1376 3662">
+     <span class='ocr_line' id='line_1_5' title="bbox 520 3573 1376 3662; baseline 0.001 -1"><span class='ocrx_word' id='word_1_8' title='bbox 520 3573 988 3661; x_wconf 87' lang='lat' dir='ltr'><strong>ALEXANDER</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1029 3576 1093 3659; x_wconf 92' lang='lat' dir='ltr'><strong>W.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1135 3576 1376 3662; x_wconf 86' lang='lat' dir='ltr'><strong>LEITH.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 2254 6100">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 2254 6100">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2254 6100; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 2254 6100; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
